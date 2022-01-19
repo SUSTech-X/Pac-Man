@@ -1,3 +1,2 @@
-# Pac-Man
-This is a game like pac-man by unity3D.
-
+# OOAD-PacMan
+This repository is uesd to share the source of PacMan.
